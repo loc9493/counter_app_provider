@@ -1,4 +1,4 @@
-# counter_provider
+# Counter app using Flutter and Proivder state management
 
 A new Flutter project.
 
